@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <h1 class="text-3xl font-bold underline my-style">
-      Hello world!
+  <div class="container">
+    <h1>
+      main
     </h1>
   </div>
 </template>
